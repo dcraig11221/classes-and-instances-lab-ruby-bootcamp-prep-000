@@ -1,6 +1,5 @@
 class Dog
 end
- Gracie = Dog.new
- Ralph =  Dog.new
- Chloe = Dog.new
- 
+ fido = Dog.new
+ snoopy =  Dog.new
+ chloe = Dog.new
